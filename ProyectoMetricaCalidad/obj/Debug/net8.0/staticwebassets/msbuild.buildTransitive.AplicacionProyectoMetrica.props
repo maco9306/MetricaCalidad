@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AplicacionProyectoMetrica.props" />
+</Project>
